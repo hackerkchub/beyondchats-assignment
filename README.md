@@ -65,8 +65,8 @@ node index.js
 
 
 Create .env file:
-OPENAI_API_KEY=your_openai_key
-SERP_API_KEY=your_serpapi_key
+OPENAI_API_KEY=""
+SERP_API_KEY=""
 
 3️⃣ Frontend (React)
 bash
@@ -82,7 +82,7 @@ http://localhost:5173
 
 ## 🌐 Live Demo
 🔗 Frontend Live URL:
-👉 https://your-vercel-link.vercel.app
+👉 https://beyondchats-assignment-nu.vercel.app/
 
 
 ## 🧪 Features
